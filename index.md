@@ -1,4 +1,2 @@
-## Welcome to Zimo's Furry House!
-
-This site is not officially complete yet!
-So......
+## 欢迎来到子沫的福瑞小屋
+这个基于Github网站还没有正式发布哦！ 下面的英文字不用去管~
