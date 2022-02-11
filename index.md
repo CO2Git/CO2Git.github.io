@@ -4,5 +4,6 @@
 如果有什么福瑞圈料可以马上告诉本人哦！
 ## 各个兽聚科普：<a href="https://co2git.github.io/furrymeeting" target="_blank">co2git.github.io/furrymeeting</a>
 ### QQ：2200643077，子沫
-### 联系邮箱地址：larowo@hotmail.com    ，    2200643077@qq.com（前者较常用）
-*Update 2022.2.11 20:13.
+### 联系邮箱地址：larowo@hotmail.com    ，    2200643077@qq.com（前者较常用，星期五至星期日无法联系）
+#### Update 2022.2.11 20:13.
+#### 此网页及其子网页中除了开头为co2git.github.io的网页以外，其他网页均不属于我，如有侵权，周末联系我立删
