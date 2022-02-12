@@ -1,9 +1,6 @@
-# 欢迎来到子沫的福瑞工具箱首页
-# [Run in Github.]
-此网页开放，任何兽友都可以免费使用！
-如果有什么福瑞圈料可以马上告诉本人哦！
-## 各个兽聚科普：<a href="https://co2git.github.io/furrymeeting" target="_blank">co2git.github.io/furrymeeting</a>
-### QQ：2200643077，子沫
-### 联系邮箱地址：larowo@hotmail.com    ，    2200643077@qq.com（前者较常用，星期五至星期日无法联系）
-#### Update 2022.2.11 20:13.
-#### 此网页及其子网页中除了开头为co2git.github.io的网页以外，其他网页均不属于我，如有侵权，周末联系我立删
+# 致力让生活与开发更美好——工具站co2git.github.io
+#### 此网页对任何人开放！
+## <a href="https://co2git.github.io/videos" target="_blank">视频大赏</a>
+## <a href="https://co2git.github.io/tools" target="_blank">工具站</a>
+## <a href="https://co2git.github.io/website" target="_blank">实用网站</a>
+#### Update 2022.2.12 12:07
