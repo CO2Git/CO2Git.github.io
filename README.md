@@ -1,2 +1,2 @@
 # CO2Git.github.io
-这是子沫的furry小屋哦！
+这是一个工具站
