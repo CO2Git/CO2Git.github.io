@@ -4,3 +4,4 @@
 ## <a href="https://co2git.github.io/tools" target="_blank">提供软件下载</a>
 ## <a href="https://co2git.github.io/website" target="_blank">实用网站</a>
 #### Update 2022.2.12 12:07
+### 注意，此网站以及其子页为试运行，功能尚未完成，但可以浏览
